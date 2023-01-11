@@ -10,7 +10,7 @@ Description: In this analysis we are looking at several green energy stocks. We 
 
 As the images below show 2017 was a better year for all the stocks in our analysis. The stocks ENPH and RUN had positive returns in both 2017 and 2018 making them good future investments. 
 
-The run time of the code on the VBA Challenge Spreadsheet with the 2018 analysis ran the fastest out of them all. Please see image below and refer to the others in the git hub to see close ups of the pics. 
+The run time of the refactored code on the VBA Challenge Spreadsheet with the 2018 analysis ran the fastest out of them all. Please see image below and refer to the others in the git hub to see close ups of the pics. 
 
 
 ## Images
