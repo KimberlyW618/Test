@@ -15,7 +15,7 @@ Results: Using images and examples of your code, compare the stock performance b
 - Timed Results 
 ![Results](Results.png)
 - Code
-![Code](Code.png)
+![Code](code.png)
 
 ## Summary
 
